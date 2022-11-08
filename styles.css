@@ -1,0 +1,14 @@
+.nav-bar-img{
+    background-color:aquamarine;
+    position: sticky ;
+    width: 100%;
+    border-color: black;
+    border-style: solid;
+    display: flex;
+    margin-left: auto;
+    
+}
+.nav-contacts{
+    color: black;
+    
+}
